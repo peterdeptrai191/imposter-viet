@@ -1,0 +1,362 @@
+[
+  {
+    "id": "entertainment-001",
+    "a": "Phim hoạt hình",
+    "b": "Phim tài liệu",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-002",
+    "a": "Phim kinh dị",
+    "b": "Phim hài",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-003",
+    "a": "Phim trinh thám",
+    "b": "Phim khoa học viễn tưởng",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-004",
+    "a": "Phim cổ trang",
+    "b": "Phim hiện đại",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-005",
+    "a": "Phim ngắn",
+    "b": "Phim dài tập",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-006",
+    "a": "Phim câm",
+    "b": "Phim ca nhạc",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-007",
+    "a": "Rạp chiếu phim",
+    "b": "Rạp xiếc",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-008",
+    "a": "Vé xem phim",
+    "b": "Vé hòa nhạc",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-009",
+    "a": "Bắp rang bơ",
+    "b": "Khoai tây chiên",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-010",
+    "a": "Màn ảnh rộng",
+    "b": "Màn hình truyền hình",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-011",
+    "a": "Nhân vật chính",
+    "b": "Nhân vật phụ",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-012",
+    "a": "Nhân vật phản diện",
+    "b": "Siêu anh hùng",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-013",
+    "a": "Diễn viên đóng thế",
+    "b": "Diễn viên lồng tiếng",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-014",
+    "a": "Đạo diễn điện ảnh",
+    "b": "Nhà biên kịch",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-015",
+    "a": "Đoàn làm phim",
+    "b": "Đoàn kịch",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-016",
+    "a": "Phim trường",
+    "b": "Sân khấu kịch",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-017",
+    "a": "Cảnh hành động",
+    "b": "Cảnh tình cảm",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-018",
+    "a": "Lời thoại",
+    "b": "Lời dẫn chuyện",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-019",
+    "a": "Phụ đề",
+    "b": "Thuyết minh",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-020",
+    "a": "Đoạn giới thiệu phim",
+    "b": "Video hậu trường",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-021",
+    "a": "Lễ trao giải điện ảnh",
+    "b": "Liên hoan phim",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-022",
+    "a": "Thảm đỏ",
+    "b": "Buổi công chiếu",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-023",
+    "a": "Chương trình thực tế",
+    "b": "Chương trình đố vui",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-024",
+    "a": "Trò ảo thuật",
+    "b": "Màn múa rối",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-025",
+    "a": "Kịch nói",
+    "b": "Hài độc thoại",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-026",
+    "a": "Truyện tranh",
+    "b": "Tiểu thuyết đồ họa",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-027",
+    "a": "Trò chơi điện tử",
+    "b": "Trò chơi bàn cờ",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-028",
+    "a": "Phòng thoát hiểm",
+    "b": "Nhà ma",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-029",
+    "a": "Vòng thử giọng",
+    "b": "Vòng chung kết",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-030",
+    "a": "Người hâm mộ",
+    "b": "Khán giả trường quay",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-031",
+    "a": "Tập mở đầu",
+    "b": "Tập kết thúc",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-032",
+    "a": "Cú máy toàn cảnh",
+    "b": "Cú máy cận cảnh",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-033",
+    "a": "Kỹ xảo điện ảnh",
+    "b": "Hóa trang nhân vật",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-034",
+    "a": "Bản dựng nháp",
+    "b": "Bản phim chính thức",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-035",
+    "a": "Phần tiền truyện",
+    "b": "Phần hậu truyện",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "entertainment-036",
+    "a": "Rạp ngoài trời",
+    "b": "Rạp chiếu phim lưu động",
+    "topic": "Phim ảnh và giải trí",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

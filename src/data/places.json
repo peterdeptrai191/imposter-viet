@@ -1,0 +1,362 @@
+[
+  {
+    "id": "places-001",
+    "a": "Bãi biển",
+    "b": "Hồ nước",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-002",
+    "a": "Bưu điện",
+    "b": "Ngân hàng",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-003",
+    "a": "Trạm xăng",
+    "b": "Trạm sạc điện",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-004",
+    "a": "Xưởng gốm",
+    "b": "Lò rèn",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-005",
+    "a": "Thác nước",
+    "b": "Hang động",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-006",
+    "a": "Nhà văn hóa",
+    "b": "Thư viện cộng đồng",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-007",
+    "a": "Rừng nhiệt đới",
+    "b": "Rừng ngập mặn",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-008",
+    "a": "Đầm lầy",
+    "b": "Đầm phá",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-009",
+    "a": "Công viên",
+    "b": "Vườn bách thảo",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-010",
+    "a": "Sở thú",
+    "b": "Khu bảo tồn",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-011",
+    "a": "Chợ",
+    "b": "Siêu thị",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-012",
+    "a": "Trung tâm thương mại",
+    "b": "Cửa hàng tiện lợi",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-013",
+    "a": "Rạp chiếu phim",
+    "b": "Nhà hát",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-014",
+    "a": "Bảo tàng",
+    "b": "Phòng tranh",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-015",
+    "a": "Bệnh viện",
+    "b": "Phòng khám",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-016",
+    "a": "Khách sạn",
+    "b": "Nhà nghỉ",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-017",
+    "a": "Sân bay",
+    "b": "Bến xe",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-018",
+    "a": "Nhà ga",
+    "b": "Bến cảng",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-019",
+    "a": "Quảng trường",
+    "b": "Phố đi bộ",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-020",
+    "a": "Chùa",
+    "b": "Nhà thờ",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-021",
+    "a": "Lâu đài",
+    "b": "Cung điện",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-022",
+    "a": "Làng quê",
+    "b": "Thành phố",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-023",
+    "a": "Chung cư",
+    "b": "Nhà phố",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-024",
+    "a": "Khu công nghiệp",
+    "b": "Khu chế xuất",
+    "topic": "Địa điểm",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-025",
+    "a": "Sân vận động",
+    "b": "Nhà thi đấu",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-026",
+    "a": "Bể bơi",
+    "b": "Công viên nước",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-027",
+    "a": "Tiệm sách",
+    "b": "Quán cà phê",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-028",
+    "a": "Nhà hàng",
+    "b": "Quán ăn",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-029",
+    "a": "Khu cắm trại",
+    "b": "Khu nghỉ dưỡng",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-030",
+    "a": "Đài quan sát",
+    "b": "Cung thiên văn",
+    "topic": "Địa điểm",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-031",
+    "a": "Hải đăng",
+    "b": "Trạm gác biển",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-032",
+    "a": "Đền",
+    "b": "Đình làng",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-033",
+    "a": "Chợ nổi",
+    "b": "Chợ đêm",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-034",
+    "a": "Đồng bằng",
+    "b": "Châu thổ",
+    "topic": "Địa điểm",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-035",
+    "a": "Ốc đảo",
+    "b": "Cồn cát",
+    "topic": "Địa điểm",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "places-036",
+    "a": "Vườn quốc gia",
+    "b": "Khu dự trữ sinh quyển",
+    "topic": "Địa điểm",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

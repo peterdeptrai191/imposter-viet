@@ -1,0 +1,362 @@
+[
+  {
+    "id": "clothing-001",
+    "a": "Áo thun",
+    "b": "Áo sơ mi",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-002",
+    "a": "Áo khoác gió",
+    "b": "Áo mưa",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-003",
+    "a": "Áo len",
+    "b": "Áo nỉ",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-004",
+    "a": "Áo khoác dạ",
+    "b": "Áo khoác da",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-005",
+    "a": "Áo dài",
+    "b": "Áo bà ba",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-006",
+    "a": "Áo tứ thân",
+    "b": "Áo yếm",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-007",
+    "a": "Áo hai dây",
+    "b": "Áo trễ vai",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-008",
+    "a": "Áo cổ lọ",
+    "b": "Áo cổ tim",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-009",
+    "a": "Quần jean",
+    "b": "Quần kaki",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-010",
+    "a": "Quần đùi",
+    "b": "Quần lửng",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-011",
+    "a": "Quần âu",
+    "b": "Quần jogger",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-012",
+    "a": "Quần yếm",
+    "b": "Váy yếm",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-013",
+    "a": "Váy xếp ly",
+    "b": "Váy chữ A",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-014",
+    "a": "Váy cưới",
+    "b": "Áo tốt nghiệp",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-015",
+    "a": "Đồ bơi",
+    "b": "Đồ lặn",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-016",
+    "a": "Đồ ngủ",
+    "b": "Đồng phục học sinh",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-017",
+    "a": "Áo bóng đá",
+    "b": "Áo bóng rổ",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-018",
+    "a": "Giày thể thao",
+    "b": "Giày tây",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-019",
+    "a": "Giày cao gót",
+    "b": "Giày búp bê",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-020",
+    "a": "Dép xỏ ngón",
+    "b": "Dép quai hậu",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-021",
+    "a": "Ủng đi mưa",
+    "b": "Bốt da",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-022",
+    "a": "Giày trượt băng",
+    "b": "Giày patin",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-023",
+    "a": "Mũ lưỡi trai",
+    "b": "Mũ rộng vành",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-024",
+    "a": "Mũ len",
+    "b": "Mũ nồi",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-025",
+    "a": "Khăn quàng cổ",
+    "b": "Khăn choàng vai",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-026",
+    "a": "Cà vạt",
+    "b": "Nơ đeo cổ",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-027",
+    "a": "Thắt lưng",
+    "b": "Dây đeo quần",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-028",
+    "a": "Găng tay len",
+    "b": "Găng tay da",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-029",
+    "a": "Tất cổ ngắn",
+    "b": "Tất cao đến gối",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-030",
+    "a": "Túi đeo chéo",
+    "b": "Túi xách tay",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-031",
+    "a": "Khuyên tai",
+    "b": "Vòng cổ",
+    "topic": "Trang phục",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-032",
+    "a": "Nhẫn đính hôn",
+    "b": "Nhẫn cưới",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-033",
+    "a": "Khuy măng sét",
+    "b": "Kẹp cà vạt",
+    "topic": "Trang phục",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-034",
+    "a": "Vải nhung",
+    "b": "Vải lụa",
+    "topic": "Trang phục",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-035",
+    "a": "Đường xếp ly",
+    "b": "Đường nhún bèo",
+    "topic": "Trang phục",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "clothing-036",
+    "a": "Cổ áo thủy thủ",
+    "b": "Cổ áo Peter Pan",
+    "topic": "Trang phục",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

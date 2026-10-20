@@ -1,0 +1,117 @@
+{
+  "uniqueWords": 1289,
+  "validPairs": 648,
+  "topics": 18,
+  "byTopic": {
+    "Động vật": {
+      "easy": 25,
+      "medium": 9,
+      "hard": 2,
+      "total": 36
+    },
+    "Trang phục": {
+      "easy": 24,
+      "medium": 9,
+      "hard": 3,
+      "total": 36
+    },
+    "Đời sống": {
+      "easy": 26,
+      "medium": 7,
+      "hard": 3,
+      "total": 36
+    },
+    "Đồ uống": {
+      "easy": 22,
+      "medium": 10,
+      "hard": 4,
+      "total": 36
+    },
+    "Phim ảnh và giải trí": {
+      "easy": 17,
+      "medium": 13,
+      "hard": 6,
+      "total": 36
+    },
+    "Lễ hội và văn hóa": {
+      "easy": 18,
+      "medium": 13,
+      "hard": 5,
+      "total": 36
+    },
+    "Món ăn": {
+      "easy": 27,
+      "medium": 9,
+      "hard": 0,
+      "total": 36
+    },
+    "Đồ dùng gia đình": {
+      "easy": 31,
+      "medium": 5,
+      "hard": 0,
+      "total": 36
+    },
+    "Nghề nghiệp": {
+      "easy": 24,
+      "medium": 9,
+      "hard": 3,
+      "total": 36
+    },
+    "Âm nhạc": {
+      "easy": 16,
+      "medium": 17,
+      "hard": 3,
+      "total": 36
+    },
+    "Thiên nhiên": {
+      "easy": 18,
+      "medium": 15,
+      "hard": 3,
+      "total": 36
+    },
+    "Địa điểm": {
+      "easy": 24,
+      "medium": 9,
+      "hard": 3,
+      "total": 36
+    },
+    "Rau củ và trái cây": {
+      "easy": 27,
+      "medium": 7,
+      "hard": 2,
+      "total": 36
+    },
+    "Trường học": {
+      "easy": 24,
+      "medium": 10,
+      "hard": 2,
+      "total": 36
+    },
+    "Thể thao": {
+      "easy": 24,
+      "medium": 10,
+      "hard": 2,
+      "total": 36
+    },
+    "Công nghệ": {
+      "easy": 19,
+      "medium": 11,
+      "hard": 6,
+      "total": 36
+    },
+    "Phương tiện": {
+      "easy": 24,
+      "medium": 9,
+      "hard": 3,
+      "total": 36
+    },
+    "Du lịch": {
+      "easy": 21,
+      "medium": 11,
+      "hard": 4,
+      "total": 36
+    }
+  },
+  "errors": [],
+  "semanticReview": "Các cặp được chọn thủ công theo nhóm nghĩa và rà soát bằng đọc nội dung. Chưa có đánh giá độc lập hoặc thử nghiệm cân bằng độ khó với nhóm người chơi thực tế. Kiểm tra tự động chỉ xác nhận cấu trúc và số lượng."
+}

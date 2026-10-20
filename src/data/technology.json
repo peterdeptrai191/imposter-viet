@@ -1,0 +1,362 @@
+[
+  {
+    "id": "technology-001",
+    "a": "Điện thoại thông minh",
+    "b": "Máy tính bảng",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-002",
+    "a": "Máy tính để bàn",
+    "b": "Máy tính xách tay",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-003",
+    "a": "Bàn phím máy tính",
+    "b": "Chuột máy tính",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-004",
+    "a": "Tai nghe không dây",
+    "b": "Loa Bluetooth",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-005",
+    "a": "Màn hình cảm ứng",
+    "b": "Bút cảm ứng",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-006",
+    "a": "Sạc dự phòng",
+    "b": "Củ sạc",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-007",
+    "a": "Cáp USB",
+    "b": "Cáp HDMI",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-008",
+    "a": "Máy in laser",
+    "b": "Máy in phun",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-009",
+    "a": "Máy quét tài liệu",
+    "b": "Máy photocopy",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-010",
+    "a": "Webcam",
+    "b": "Camera hành trình",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-011",
+    "a": "Đồng hồ thông minh",
+    "b": "Vòng đeo sức khỏe",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-012",
+    "a": "Kính thực tế ảo",
+    "b": "Kính thực tế tăng cường",
+    "topic": "Công nghệ",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-013",
+    "a": "Wifi",
+    "b": "Dữ liệu di động",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-014",
+    "a": "Bộ phát mạng",
+    "b": "Bộ kích sóng",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-015",
+    "a": "Mật khẩu",
+    "b": "Mã xác thực",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-016",
+    "a": "Nhận diện khuôn mặt",
+    "b": "Cảm biến vân tay",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-017",
+    "a": "Ổ cứng ngoài",
+    "b": "Thẻ nhớ",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-018",
+    "a": "Bộ nhớ RAM",
+    "b": "Ổ SSD",
+    "topic": "Công nghệ",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-019",
+    "a": "Ứng dụng di động",
+    "b": "Trang web",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-020",
+    "a": "Trình duyệt web",
+    "b": "Công cụ tìm kiếm",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-021",
+    "a": "Thư điện tử",
+    "b": "Tin nhắn tức thời",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-022",
+    "a": "Cuộc gọi video",
+    "b": "Phát trực tiếp",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-023",
+    "a": "Mã QR",
+    "b": "Mã vạch",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-024",
+    "a": "Ví điện tử",
+    "b": "Thẻ ngân hàng không tiếp xúc",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-025",
+    "a": "Lưu trữ đám mây",
+    "b": "Sao lưu cục bộ",
+    "topic": "Công nghệ",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-026",
+    "a": "Tải xuống",
+    "b": "Tải lên",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-027",
+    "a": "Cài đặt phần mềm",
+    "b": "Cập nhật phần mềm",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-028",
+    "a": "Chế độ máy bay",
+    "b": "Chế độ tiết kiệm pin",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-029",
+    "a": "Tường lửa",
+    "b": "Phần mềm diệt virus",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-030",
+    "a": "Thư rác",
+    "b": "Tin nhắn lừa đảo",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-031",
+    "a": "Robot hút bụi",
+    "b": "Máy hút bụi cầm tay",
+    "topic": "Công nghệ",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-032",
+    "a": "Khóa cửa thông minh",
+    "b": "Chuông cửa có hình",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-033",
+    "a": "Trợ lý giọng nói",
+    "b": "Chatbot",
+    "topic": "Công nghệ",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-034",
+    "a": "Máy chủ",
+    "b": "Máy khách",
+    "topic": "Công nghệ",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-035",
+    "a": "Mã hóa dữ liệu",
+    "b": "Nén dữ liệu",
+    "topic": "Công nghệ",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "technology-036",
+    "a": "Thực tế ảo",
+    "b": "Mô phỏng máy tính",
+    "topic": "Công nghệ",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

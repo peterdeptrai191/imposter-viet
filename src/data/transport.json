@@ -1,0 +1,362 @@
+[
+  {
+    "id": "transport-001",
+    "a": "Xe đạp",
+    "b": "Xe máy",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-002",
+    "a": "Ô tô con",
+    "b": "Xe tải",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-003",
+    "a": "Xe buýt",
+    "b": "Xe khách",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-004",
+    "a": "Tàu hỏa",
+    "b": "Tàu điện ngầm",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-005",
+    "a": "Tàu thủy",
+    "b": "Ca nô",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-006",
+    "a": "Thuyền buồm",
+    "b": "Thuyền chèo",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-007",
+    "a": "Máy bay",
+    "b": "Trực thăng",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-008",
+    "a": "Khinh khí cầu",
+    "b": "Dù lượn",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-009",
+    "a": "Xe điện",
+    "b": "Xe chạy xăng",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-010",
+    "a": "Xe cứu thương",
+    "b": "Xe cứu hỏa",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-011",
+    "a": "Xe cảnh sát",
+    "b": "Xe bọc thép",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-012",
+    "a": "Xe cẩu",
+    "b": "Xe nâng",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-013",
+    "a": "Máy xúc",
+    "b": "Xe ủi",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-014",
+    "a": "Xe ben",
+    "b": "Xe bồn",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-015",
+    "a": "Xe lu",
+    "b": "Máy san đường",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-016",
+    "a": "Xe đạp điện",
+    "b": "Xe máy điện",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-017",
+    "a": "Xe ba gác",
+    "b": "Xe xích lô",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-018",
+    "a": "Xe ngựa",
+    "b": "Xe kéo tay",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-019",
+    "a": "Xe trượt tuyết",
+    "b": "Ván trượt tuyết",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-020",
+    "a": "Tàu ngầm",
+    "b": "Tàu sân bay",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-021",
+    "a": "Phà",
+    "b": "Tàu cao tốc",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-022",
+    "a": "Thuyền thúng",
+    "b": "Xuồng ba lá",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-023",
+    "a": "Tàu đánh cá",
+    "b": "Tàu chở hàng",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-024",
+    "a": "Tàu chở dầu",
+    "b": "Tàu du lịch",
+    "topic": "Phương tiện",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-025",
+    "a": "Máy bay chở khách",
+    "b": "Máy bay chở hàng",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-026",
+    "a": "Máy bay phản lực",
+    "b": "Máy bay cánh quạt",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-027",
+    "a": "Tên lửa",
+    "b": "Tàu con thoi",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-028",
+    "a": "Cáp treo",
+    "b": "Thang máy",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-029",
+    "a": "Băng chuyền chở người",
+    "b": "Thang cuốn",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-030",
+    "a": "Xe lăn",
+    "b": "Xe đẩy em bé",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-031",
+    "a": "Xe địa hình",
+    "b": "Xe đua",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-032",
+    "a": "Xe đầu kéo",
+    "b": "Rơ moóc",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-033",
+    "a": "Mô tô nước",
+    "b": "Ván lướt sóng gắn động cơ",
+    "topic": "Phương tiện",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-034",
+    "a": "Tàu đệm từ",
+    "b": "Tàu điện mặt đất",
+    "topic": "Phương tiện",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-035",
+    "a": "Tàu phá băng",
+    "b": "Tàu kéo",
+    "topic": "Phương tiện",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "transport-036",
+    "a": "Thủy phi cơ",
+    "b": "Tàu đệm khí",
+    "topic": "Phương tiện",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

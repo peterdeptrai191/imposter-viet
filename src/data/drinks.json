@@ -1,0 +1,362 @@
+[
+  {
+    "id": "drinks-001",
+    "a": "Nước cam",
+    "b": "Nước chanh",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-002",
+    "a": "Nước ép táo",
+    "b": "Nước ép lê",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-003",
+    "a": "Nước ép dứa",
+    "b": "Nước ép ổi",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-004",
+    "a": "Nước ép cà rốt",
+    "b": "Nước ép cà chua",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-005",
+    "a": "Nước ép cần tây",
+    "b": "Nước ép củ dền",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-006",
+    "a": "Nước dừa",
+    "b": "Nước mía",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-007",
+    "a": "Sinh tố bơ",
+    "b": "Sinh tố xoài",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-008",
+    "a": "Sinh tố dâu",
+    "b": "Sinh tố việt quất",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-009",
+    "a": "Sinh tố chuối",
+    "b": "Sinh tố mãng cầu",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-010",
+    "a": "Sữa bò",
+    "b": "Sữa dê",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-011",
+    "a": "Sữa đậu nành",
+    "b": "Sữa đậu xanh",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-012",
+    "a": "Sữa hạnh nhân",
+    "b": "Sữa óc chó",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-013",
+    "a": "Sữa yến mạch",
+    "b": "Sữa gạo",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-014",
+    "a": "Kombucha",
+    "b": "Kefir",
+    "topic": "Đồ uống",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-015",
+    "a": "Cacao nóng",
+    "b": "Sô cô la đá xay",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-016",
+    "a": "Cà phê đen",
+    "b": "Cà phê sữa",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-017",
+    "a": "Cà phê trứng",
+    "b": "Cà phê muối",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-018",
+    "a": "Espresso",
+    "b": "Americano",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-019",
+    "a": "Cappuccino",
+    "b": "Latte",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-020",
+    "a": "Trà xanh",
+    "b": "Trà đen",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-021",
+    "a": "Trà ô long",
+    "b": "Trà phổ nhĩ",
+    "topic": "Đồ uống",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-022",
+    "a": "Trà sen",
+    "b": "Trà lài",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-023",
+    "a": "Trà gừng",
+    "b": "Trà sả",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-024",
+    "a": "Trà hoa cúc",
+    "b": "Trà atisô",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-025",
+    "a": "Trà đào",
+    "b": "Trà vải",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-026",
+    "a": "Trà tắc",
+    "b": "Trà chanh",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-027",
+    "a": "Trà sữa trân châu",
+    "b": "Trà sữa khoai môn",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-028",
+    "a": "Nước sâm",
+    "b": "Nước rau má",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-029",
+    "a": "Nước đậu đen",
+    "b": "Nước đậu đỏ",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-030",
+    "a": "Nước điện giải",
+    "b": "Nước khoáng",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-031",
+    "a": "Soda chanh",
+    "b": "Soda dâu",
+    "topic": "Đồ uống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-032",
+    "a": "Nước tăng lực",
+    "b": "Nước uống thể thao",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-033",
+    "a": "Bia lúa mì",
+    "b": "Bia gừng",
+    "topic": "Đồ uống",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-034",
+    "a": "Rượu vang đỏ",
+    "b": "Rượu vang trắng",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-035",
+    "a": "Rượu nếp",
+    "b": "Rượu cần",
+    "topic": "Đồ uống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "drinks-036",
+    "a": "Mojito",
+    "b": "Pina colada",
+    "topic": "Đồ uống",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

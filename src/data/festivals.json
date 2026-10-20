@@ -1,0 +1,362 @@
+[
+  {
+    "id": "festivals-001",
+    "a": "Tết Nguyên đán",
+    "b": "Tết Trung thu",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-002",
+    "a": "Tết Đoan ngọ",
+    "b": "Tết Hàn thực",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-003",
+    "a": "Tết Dương lịch",
+    "b": "Đêm giao thừa",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-004",
+    "a": "Lì xì",
+    "b": "Quà sinh nhật",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-005",
+    "a": "Múa lân",
+    "b": "Múa rồng",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-006",
+    "a": "Đèn ông sao",
+    "b": "Đèn kéo quân",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-007",
+    "a": "Mâm ngũ quả",
+    "b": "Mâm cỗ Trung thu",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-008",
+    "a": "Bánh chưng",
+    "b": "Bánh tét",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-009",
+    "a": "Bánh nướng Trung thu",
+    "b": "Bánh dẻo Trung thu",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-010",
+    "a": "Hoa đào ngày Tết",
+    "b": "Hoa mai ngày Tết",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-011",
+    "a": "Cây nêu",
+    "b": "Cây thông Noel",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-012",
+    "a": "Câu đối đỏ",
+    "b": "Tranh dân gian",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-013",
+    "a": "Chợ Tết",
+    "b": "Chợ phiên vùng cao",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-014",
+    "a": "Gói bánh chưng",
+    "b": "Nặn tò he",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-015",
+    "a": "Xin chữ đầu năm",
+    "b": "Bốc thăm may mắn",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-016",
+    "a": "Chúc Tết",
+    "b": "Mừng thọ",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-017",
+    "a": "Đám cưới",
+    "b": "Lễ đính hôn",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-018",
+    "a": "Tráp ăn hỏi",
+    "b": "Mâm lễ cưới",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-019",
+    "a": "Lễ tốt nghiệp",
+    "b": "Lễ khai giảng",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-020",
+    "a": "Ngày Nhà giáo",
+    "b": "Ngày Thầy thuốc",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-021",
+    "a": "Ngày Quốc tế Thiếu nhi",
+    "b": "Ngày Gia đình Việt Nam",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-022",
+    "a": "Quốc khánh",
+    "b": "Ngày Giải phóng miền Nam",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-023",
+    "a": "Lễ hội đua thuyền",
+    "b": "Lễ hội thả diều",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-024",
+    "a": "Hội vật",
+    "b": "Hội kéo co",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-025",
+    "a": "Đua ghe ngo",
+    "b": "Đua thuyền thúng",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-026",
+    "a": "Thả đèn hoa đăng",
+    "b": "Thả đèn trời",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-027",
+    "a": "Lễ rước kiệu",
+    "b": "Lễ dâng hương",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-028",
+    "a": "Lễ hội cầu ngư",
+    "b": "Lễ hội cầu mùa",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-029",
+    "a": "Lễ hội cồng chiêng",
+    "b": "Hội hát quan họ",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-030",
+    "a": "Múa xòe",
+    "b": "Múa sạp",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-031",
+    "a": "Trống hội",
+    "b": "Chiêng lễ hội",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-032",
+    "a": "Bàn thờ gia tiên",
+    "b": "Nhà thờ họ",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-033",
+    "a": "Giỗ Tổ Hùng Vương",
+    "b": "Ngày giỗ gia đình",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-034",
+    "a": "Lễ cúng ông Công ông Táo",
+    "b": "Lễ cúng tất niên",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-035",
+    "a": "Tục xông đất",
+    "b": "Tục hái lộc",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "festivals-036",
+    "a": "Lễ chào cờ",
+    "b": "Lễ diễu hành",
+    "topic": "Lễ hội và văn hóa",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

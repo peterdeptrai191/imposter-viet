@@ -1,0 +1,362 @@
+[
+  {
+    "id": "daily-001",
+    "a": "Đánh răng",
+    "b": "Rửa mặt",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-002",
+    "a": "Gội đầu",
+    "b": "Tắm vòi sen",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-003",
+    "a": "Giặt quần áo",
+    "b": "Phơi quần áo",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-004",
+    "a": "Quét nhà",
+    "b": "Lau nhà",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-005",
+    "a": "Rửa bát",
+    "b": "Lau bàn",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-006",
+    "a": "Nấu cơm",
+    "b": "Hâm thức ăn",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-007",
+    "a": "Đi chợ",
+    "b": "Đi siêu thị",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-008",
+    "a": "Ăn sáng",
+    "b": "Ăn khuya",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-009",
+    "a": "Ngủ trưa",
+    "b": "Ngủ nướng",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-010",
+    "a": "Dậy sớm",
+    "b": "Thức đêm",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-011",
+    "a": "Tập thể dục buổi sáng",
+    "b": "Đi dạo buổi tối",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-012",
+    "a": "Tưới cây",
+    "b": "Tỉa cành",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-013",
+    "a": "Cho cá ăn",
+    "b": "Dắt chó đi dạo",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-014",
+    "a": "Đổ rác",
+    "b": "Phân loại rác",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-015",
+    "a": "Gấp chăn",
+    "b": "Thay ga giường",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-016",
+    "a": "Ủi áo",
+    "b": "Khâu nút áo",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-017",
+    "a": "Đặt đồ ăn",
+    "b": "Đặt xe công nghệ",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-018",
+    "a": "Thanh toán tiền điện",
+    "b": "Nạp tiền điện thoại",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-019",
+    "a": "Gửi bưu phẩm",
+    "b": "Nhận hàng giao tận nhà",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-020",
+    "a": "Hẹn giờ báo thức",
+    "b": "Đặt lịch nhắc việc",
+    "topic": "Đời sống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-021",
+    "a": "Viết danh sách mua sắm",
+    "b": "Lập kế hoạch tuần",
+    "topic": "Đời sống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-022",
+    "a": "Ghi chép chi tiêu",
+    "b": "Lập ngân sách gia đình",
+    "topic": "Đời sống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-023",
+    "a": "Heo đất",
+    "b": "Sổ tiết kiệm",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-024",
+    "a": "Chuyển nhà",
+    "b": "Sửa nhà",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-025",
+    "a": "Trang trí phòng",
+    "b": "Sắp xếp tủ đồ",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-026",
+    "a": "Trông trẻ",
+    "b": "Chăm người ốm",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-027",
+    "a": "Thăm hàng xóm",
+    "b": "Họp tổ dân phố",
+    "topic": "Đời sống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-028",
+    "a": "Hẹn gặp bạn bè",
+    "b": "Họp mặt gia đình",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-029",
+    "a": "Xếp hàng",
+    "b": "Lấy số thứ tự",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-030",
+    "a": "Xin nghỉ phép",
+    "b": "Đổi ca làm",
+    "topic": "Đời sống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-031",
+    "a": "Làm thêm giờ",
+    "b": "Làm việc tại nhà",
+    "topic": "Đời sống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-032",
+    "a": "Bảo dưỡng xe",
+    "b": "Rửa xe",
+    "topic": "Đời sống",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-033",
+    "a": "Khám sức khỏe định kỳ",
+    "b": "Khám răng định kỳ",
+    "topic": "Đời sống",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-034",
+    "a": "Đăng ký tạm trú",
+    "b": "Đăng ký thường trú",
+    "topic": "Đời sống",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-035",
+    "a": "Đọc công tơ điện",
+    "b": "Ghi chỉ số nước",
+    "topic": "Đời sống",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "daily-036",
+    "a": "Lên thực đơn tuần",
+    "b": "Chuẩn bị suất ăn trước",
+    "topic": "Đời sống",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

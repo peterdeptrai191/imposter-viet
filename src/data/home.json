@@ -1,0 +1,362 @@
+[
+  {
+    "id": "home-001",
+    "a": "Bàn",
+    "b": "Ghế",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-002",
+    "a": "Giường",
+    "b": "Nệm",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-003",
+    "a": "Chăn",
+    "b": "Gối",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-004",
+    "a": "Tủ quần áo",
+    "b": "Tủ giày",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-005",
+    "a": "Rèm cửa",
+    "b": "Thảm trải sàn",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-006",
+    "a": "Đèn bàn",
+    "b": "Đèn trần",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-007",
+    "a": "Quạt máy",
+    "b": "Máy lạnh",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-008",
+    "a": "Tivi",
+    "b": "Máy chiếu",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-009",
+    "a": "Điều khiển từ xa",
+    "b": "Công tắc điện",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-010",
+    "a": "Ổ cắm",
+    "b": "Dây nối điện",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-011",
+    "a": "Đồng hồ treo tường",
+    "b": "Đồng hồ báo thức",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-012",
+    "a": "Gương",
+    "b": "Lược",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-013",
+    "a": "Bàn chải đánh răng",
+    "b": "Chỉ nha khoa",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-014",
+    "a": "Khăn mặt",
+    "b": "Khăn tắm",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-015",
+    "a": "Xà phòng",
+    "b": "Sữa tắm",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-016",
+    "a": "Dầu gội",
+    "b": "Dầu xả",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-017",
+    "a": "Bồn rửa",
+    "b": "Chậu giặt",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-018",
+    "a": "Bồn cầu",
+    "b": "Bô",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-019",
+    "a": "Chổi",
+    "b": "Cây lau nhà",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-020",
+    "a": "Hót rác",
+    "b": "Thùng rác",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-021",
+    "a": "Máy hút bụi",
+    "b": "Robot hút bụi",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-022",
+    "a": "Máy giặt",
+    "b": "Máy sấy quần áo",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-023",
+    "a": "Bàn ủi",
+    "b": "Máy hấp quần áo",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-024",
+    "a": "Móc áo",
+    "b": "Kẹp quần áo",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-025",
+    "a": "Nồi",
+    "b": "Chảo",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-026",
+    "a": "Bát",
+    "b": "Đĩa",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-027",
+    "a": "Đũa",
+    "b": "Thìa",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-028",
+    "a": "Dao",
+    "b": "Kéo",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-029",
+    "a": "Rổ",
+    "b": "Rây",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-030",
+    "a": "Nồi cơm điện",
+    "b": "Nồi áp suất",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-031",
+    "a": "Lò nướng",
+    "b": "Nồi chiên không dầu",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-032",
+    "a": "Bếp gas",
+    "b": "Bếp từ",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-033",
+    "a": "Ấm đun nước",
+    "b": "Bình giữ nhiệt",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-034",
+    "a": "Tủ lạnh",
+    "b": "Tủ đông",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-035",
+    "a": "Máy xay sinh tố",
+    "b": "Máy ép trái cây",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "home-036",
+    "a": "Phới đánh trứng",
+    "b": "Máy đánh trứng",
+    "topic": "Đồ dùng gia đình",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

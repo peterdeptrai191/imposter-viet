@@ -1,0 +1,362 @@
+[
+  {
+    "id": "sports-001",
+    "a": "Bóng đá",
+    "b": "Bóng rổ",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-002",
+    "a": "Bóng chuyền",
+    "b": "Bóng ném",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-003",
+    "a": "Cầu lông",
+    "b": "Quần vợt",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-004",
+    "a": "Bóng bàn",
+    "b": "Bóng chày",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-005",
+    "a": "Bơi lội",
+    "b": "Lặn thể thao",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-006",
+    "a": "Chạy nước rút",
+    "b": "Chạy marathon",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-007",
+    "a": "Nhảy cao",
+    "b": "Nhảy xa",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-008",
+    "a": "Ném lao",
+    "b": "Ném đĩa",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-009",
+    "a": "Đẩy tạ",
+    "b": "Ném búa",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-010",
+    "a": "Đua xe đạp",
+    "b": "Đua mô tô",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-011",
+    "a": "Đua thuyền",
+    "b": "Đua ngựa",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-012",
+    "a": "Trượt băng",
+    "b": "Trượt tuyết",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-013",
+    "a": "Lướt sóng",
+    "b": "Chèo ván đứng",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-014",
+    "a": "Leo núi",
+    "b": "Leo tường",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-015",
+    "a": "Quyền anh",
+    "b": "Muay Thái",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-016",
+    "a": "Karate",
+    "b": "Taekwondo",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-017",
+    "a": "Judo",
+    "b": "Đấu vật",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-018",
+    "a": "Kiếm đạo",
+    "b": "Đấu kiếm",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-019",
+    "a": "Bắn cung",
+    "b": "Bắn súng",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-020",
+    "a": "Cờ vua",
+    "b": "Cờ tướng",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-021",
+    "a": "Cờ vây",
+    "b": "Cờ đam",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-022",
+    "a": "Bi a",
+    "b": "Bowling",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-023",
+    "a": "Golf",
+    "b": "Bóng vồ",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-024",
+    "a": "Bóng bầu dục",
+    "b": "Bóng đá Mỹ",
+    "topic": "Thể thao",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-025",
+    "a": "Khúc côn cầu trên cỏ",
+    "b": "Khúc côn cầu trên băng",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-026",
+    "a": "Bóng nước",
+    "b": "Bóng chuyền bãi biển",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-027",
+    "a": "Cầu mây",
+    "b": "Đá cầu",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-028",
+    "a": "Thể dục dụng cụ",
+    "b": "Thể dục nhịp điệu",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-029",
+    "a": "Cử tạ",
+    "b": "Thể hình",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-030",
+    "a": "Ba môn phối hợp",
+    "b": "Năm môn phối hợp hiện đại",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-031",
+    "a": "Nhảy sào",
+    "b": "Nhảy ba bước",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-032",
+    "a": "Chạy vượt rào",
+    "b": "Chạy tiếp sức",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-033",
+    "a": "Bóng mềm",
+    "b": "Cricket",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-034",
+    "a": "Nhảy cầu",
+    "b": "Bơi nghệ thuật",
+    "topic": "Thể thao",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-035",
+    "a": "Đua thuyền buồm",
+    "b": "Lướt ván buồm",
+    "topic": "Thể thao",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "sports-036",
+    "a": "Bóng quần",
+    "b": "Padel",
+    "topic": "Thể thao",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

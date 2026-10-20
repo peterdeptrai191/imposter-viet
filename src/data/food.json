@@ -1,0 +1,362 @@
+[
+  {
+    "id": "food-001",
+    "a": "Phở bò",
+    "b": "Bún bò Huế",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-002",
+    "a": "Bún chả",
+    "b": "Bún thịt nướng",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-003",
+    "a": "Cơm tấm",
+    "b": "Cơm gà",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-004",
+    "a": "Bánh mì thịt",
+    "b": "Bánh bao",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-005",
+    "a": "Bánh xèo",
+    "b": "Bánh khọt",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-006",
+    "a": "Gỏi cuốn",
+    "b": "Chả giò",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-007",
+    "a": "Cháo gà",
+    "b": "Cháo lòng",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-008",
+    "a": "Bún riêu",
+    "b": "Bún cá",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-009",
+    "a": "Hủ tiếu",
+    "b": "Mì hoành thánh",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-010",
+    "a": "Nem nướng",
+    "b": "Chạo tôm",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-011",
+    "a": "Xôi gấc",
+    "b": "Xôi đậu xanh",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-012",
+    "a": "Bánh giò",
+    "b": "Bánh ít trần",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-013",
+    "a": "Bánh bèo",
+    "b": "Bánh đúc",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-014",
+    "a": "Bánh bột lọc",
+    "b": "Bánh nậm",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-015",
+    "a": "Chả quế",
+    "b": "Chả lụa",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-016",
+    "a": "Thịt kho trứng",
+    "b": "Cá kho tộ",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-017",
+    "a": "Canh chua",
+    "b": "Canh rau ngót",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-018",
+    "a": "Rau muống xào",
+    "b": "Rau cải luộc",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-019",
+    "a": "Gà rán",
+    "b": "Vịt quay",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-020",
+    "a": "Bò lúc lắc",
+    "b": "Bò bít tết",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-021",
+    "a": "Lẩu Thái",
+    "b": "Lẩu nấm",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-022",
+    "a": "Cá hấp",
+    "b": "Tôm hấp",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-023",
+    "a": "Mực nướng",
+    "b": "Bạch tuộc nướng",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-024",
+    "a": "Sườn nướng",
+    "b": "Ba chỉ nướng",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-025",
+    "a": "Bánh pizza",
+    "b": "Hamburger",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-026",
+    "a": "Mì Ý",
+    "b": "Nui xào",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-027",
+    "a": "Sushi",
+    "b": "Kimbap",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-028",
+    "a": "Há cảo",
+    "b": "Xíu mại",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-029",
+    "a": "Kim chi",
+    "b": "Dưa món",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-030",
+    "a": "Gỏi ngó sen",
+    "b": "Nộm hoa chuối",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-031",
+    "a": "Súp cua",
+    "b": "Súp bí đỏ",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-032",
+    "a": "Bánh flan",
+    "b": "Chè khúc bạch",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-033",
+    "a": "Bánh trôi",
+    "b": "Bánh chay",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-034",
+    "a": "Chè đậu đen",
+    "b": "Chè đậu đỏ",
+    "topic": "Món ăn",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-035",
+    "a": "Bánh trung thu",
+    "b": "Bánh pía",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "food-036",
+    "a": "Bánh su kem",
+    "b": "Bánh tiramisu",
+    "topic": "Món ăn",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

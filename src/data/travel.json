@@ -1,0 +1,362 @@
+[
+  {
+    "id": "travel-001",
+    "a": "Va li kéo",
+    "b": "Ba lô du lịch",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-002",
+    "a": "Hộ chiếu",
+    "b": "Thị thực",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-003",
+    "a": "Thẻ lên máy bay",
+    "b": "Vé tàu hỏa",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-004",
+    "a": "Phòng tập thể",
+    "b": "Biệt thự nghỉ dưỡng",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-005",
+    "a": "Khu nghỉ dưỡng",
+    "b": "Homestay",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-006",
+    "a": "Lều cắm trại",
+    "b": "Túi ngủ",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-007",
+    "a": "Du lịch biển",
+    "b": "Du lịch núi",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-008",
+    "a": "Tour theo đoàn",
+    "b": "Du lịch tự túc",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-009",
+    "a": "Chuyến đi trong ngày",
+    "b": "Kỳ nghỉ dài ngày",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-010",
+    "a": "Hành lý xách tay",
+    "b": "Hành lý ký gửi",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-011",
+    "a": "Quầy làm thủ tục",
+    "b": "Cổng lên máy bay",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-012",
+    "a": "Chuyến bay thẳng",
+    "b": "Chuyến bay nối chuyến",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-013",
+    "a": "Ga quốc tế",
+    "b": "Ga nội địa",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-014",
+    "a": "Phòng đơn",
+    "b": "Phòng đôi",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-015",
+    "a": "Giường tầng",
+    "b": "Giường đôi",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-016",
+    "a": "Nhận phòng",
+    "b": "Trả phòng",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-017",
+    "a": "Bữa sáng tự chọn",
+    "b": "Bữa ăn theo thực đơn",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-018",
+    "a": "Bản đồ giấy",
+    "b": "Bản đồ ngoại tuyến",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-019",
+    "a": "Hướng dẫn viên",
+    "b": "Trưởng đoàn du lịch",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-020",
+    "a": "Điểm ngắm cảnh",
+    "b": "Điểm dừng chân",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-021",
+    "a": "Quà lưu niệm",
+    "b": "Đặc sản địa phương",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-022",
+    "a": "Bưu thiếp du lịch",
+    "b": "Nhật ký hành trình",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-023",
+    "a": "Bảo hiểm du lịch",
+    "b": "Bảo hiểm hành lý",
+    "topic": "Du lịch",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-024",
+    "a": "Đổi ngoại tệ",
+    "b": "Rút tiền ở nước ngoài",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-025",
+    "a": "Xe buýt tham quan",
+    "b": "Xe điện tham quan",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-026",
+    "a": "Du thuyền",
+    "b": "Tàu tham quan đáy kính",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-027",
+    "a": "Đi bộ đường dài",
+    "b": "Leo núi có dây",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-028",
+    "a": "Lặn ống thở",
+    "b": "Lặn bình khí",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-029",
+    "a": "Chèo bè",
+    "b": "Chèo kayak",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-030",
+    "a": "Ngắm bình minh",
+    "b": "Ngắm hoàng hôn",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-031",
+    "a": "Mùa cao điểm",
+    "b": "Mùa thấp điểm",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-032",
+    "a": "Phòng nhìn ra biển",
+    "b": "Phòng nhìn ra vườn",
+    "topic": "Du lịch",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-033",
+    "a": "Lịch trình cố định",
+    "b": "Lịch trình linh hoạt",
+    "topic": "Du lịch",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-034",
+    "a": "Đặt phòng có hoàn hủy",
+    "b": "Đặt phòng không hoàn hủy",
+    "topic": "Du lịch",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-035",
+    "a": "Phụ thu hành lý",
+    "b": "Phụ thu phòng đơn",
+    "topic": "Du lịch",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "travel-036",
+    "a": "Múi giờ điểm đến",
+    "b": "Giờ địa phương khởi hành",
+    "topic": "Du lịch",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

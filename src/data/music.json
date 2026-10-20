@@ -1,0 +1,362 @@
+[
+  {
+    "id": "music-001",
+    "a": "Đàn guitar",
+    "b": "Đàn ukulele",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-002",
+    "a": "Đàn piano",
+    "b": "Đàn organ",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-003",
+    "a": "Đàn violin",
+    "b": "Đàn cello",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-004",
+    "a": "Sáo trúc",
+    "b": "Kèn clarinet",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-005",
+    "a": "Kèn trumpet",
+    "b": "Kèn saxophone",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-006",
+    "a": "Trống jazz",
+    "b": "Trống cơm",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-007",
+    "a": "Đàn tranh",
+    "b": "Đàn bầu",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-008",
+    "a": "Đàn nhị",
+    "b": "Đàn nguyệt",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-009",
+    "a": "Đàn tỳ bà",
+    "b": "Đàn tam",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-010",
+    "a": "Cồng",
+    "b": "Chiêng",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-011",
+    "a": "Phách",
+    "b": "Song loan",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-012",
+    "a": "Harmonica",
+    "b": "Accordion",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-013",
+    "a": "Đàn bass",
+    "b": "Đàn contrabass",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-014",
+    "a": "Đàn hạc",
+    "b": "Đàn mộc cầm",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-015",
+    "a": "Nhạc pop",
+    "b": "Nhạc rock",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-016",
+    "a": "Nhạc jazz",
+    "b": "Nhạc blues",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-017",
+    "a": "Nhạc rap",
+    "b": "Nhạc R&B",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-018",
+    "a": "Nhạc cổ điển",
+    "b": "Nhạc điện tử",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-019",
+    "a": "Dân ca",
+    "b": "Nhạc trữ tình",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-020",
+    "a": "Ca trù",
+    "b": "Quan họ",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-021",
+    "a": "Chèo",
+    "b": "Cải lương",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-022",
+    "a": "Tuồng",
+    "b": "Hát xẩm",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-023",
+    "a": "Hợp xướng",
+    "b": "Đơn ca",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-024",
+    "a": "Song ca",
+    "b": "Tam ca",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-025",
+    "a": "Hòa tấu",
+    "b": "Độc tấu",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-026",
+    "a": "Điệp khúc",
+    "b": "Phiên khúc",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-027",
+    "a": "Nhịp điệu",
+    "b": "Giai điệu",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-028",
+    "a": "Nốt nhạc",
+    "b": "Dấu lặng",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-029",
+    "a": "Khóa Sol",
+    "b": "Khóa Fa",
+    "topic": "Âm nhạc",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-030",
+    "a": "Giọng trưởng",
+    "b": "Giọng thứ",
+    "topic": "Âm nhạc",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-031",
+    "a": "Dấu thăng",
+    "b": "Dấu giáng",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-032",
+    "a": "Nhạc phổ",
+    "b": "Tổng phổ",
+    "topic": "Âm nhạc",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-033",
+    "a": "Nhạc trưởng",
+    "b": "Người phối khí",
+    "topic": "Âm nhạc",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-034",
+    "a": "Tai nghe",
+    "b": "Loa",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-035",
+    "a": "Micro",
+    "b": "Bộ trộn âm",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "music-036",
+    "a": "Đĩa than",
+    "b": "Băng cassette",
+    "topic": "Âm nhạc",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

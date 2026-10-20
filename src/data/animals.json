@@ -1,0 +1,362 @@
+[
+  {
+    "id": "animals-001",
+    "a": "Chó",
+    "b": "Mèo",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-002",
+    "a": "Hổ",
+    "b": "Sư tử",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-003",
+    "a": "Báo hoa mai",
+    "b": "Báo đốm",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-004",
+    "a": "Sói",
+    "b": "Cáo",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-005",
+    "a": "Gấu nâu",
+    "b": "Gấu trúc",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-006",
+    "a": "Voi",
+    "b": "Tê giác",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-007",
+    "a": "Hươu cao cổ",
+    "b": "Ngựa vằn",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-008",
+    "a": "Hươu",
+    "b": "Nai",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-009",
+    "a": "Trâu",
+    "b": "Bò",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-010",
+    "a": "Dê",
+    "b": "Cừu",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-011",
+    "a": "Ngựa",
+    "b": "Lừa",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-012",
+    "a": "Thỏ",
+    "b": "Chuột lang",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-013",
+    "a": "Chuột nhắt",
+    "b": "Chuột cống",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-014",
+    "a": "Sóc",
+    "b": "Hải ly",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-015",
+    "a": "Khỉ",
+    "b": "Tinh tinh",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-016",
+    "a": "Đười ươi",
+    "b": "Vượn",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-017",
+    "a": "Kangaroo",
+    "b": "Koala",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-018",
+    "a": "Cá heo",
+    "b": "Cá voi",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-019",
+    "a": "Hải cẩu",
+    "b": "Sư tử biển",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-020",
+    "a": "Cá mập",
+    "b": "Cá đuối",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-021",
+    "a": "Cá chép",
+    "b": "Cá rô",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-022",
+    "a": "Cá ngừ",
+    "b": "Cá thu",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-023",
+    "a": "Cá vàng",
+    "b": "Cá bảy màu",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-024",
+    "a": "Gà",
+    "b": "Vịt",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-025",
+    "a": "Ngỗng",
+    "b": "Thiên nga",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-026",
+    "a": "Chim sẻ",
+    "b": "Bồ câu",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-027",
+    "a": "Đại bàng",
+    "b": "Diều hâu",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-028",
+    "a": "Cú mèo",
+    "b": "Chim lợn",
+    "topic": "Động vật",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-029",
+    "a": "Vẹt",
+    "b": "Sáo",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-030",
+    "a": "Đà điểu",
+    "b": "Chim cánh cụt",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-031",
+    "a": "Cá sấu",
+    "b": "Kỳ đà",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-032",
+    "a": "Rùa",
+    "b": "Ba ba",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-033",
+    "a": "Ếch",
+    "b": "Cóc",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-034",
+    "a": "Bướm",
+    "b": "Ngài",
+    "topic": "Động vật",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-035",
+    "a": "Kiến",
+    "b": "Mối",
+    "topic": "Động vật",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "animals-036",
+    "a": "Dế",
+    "b": "Châu chấu",
+    "topic": "Động vật",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

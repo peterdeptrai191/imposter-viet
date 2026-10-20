@@ -1,0 +1,362 @@
+[
+  {
+    "id": "jobs-001",
+    "a": "Bác sĩ",
+    "b": "Y tá",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-002",
+    "a": "Dược sĩ",
+    "b": "Nha sĩ",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-003",
+    "a": "Đầu bếp",
+    "b": "Thợ làm bánh",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-004",
+    "a": "Thợ mộc",
+    "b": "Thợ hàn",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-005",
+    "a": "Thợ điện",
+    "b": "Thợ sửa ống nước",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-006",
+    "a": "Tài xế",
+    "b": "Phi công",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-007",
+    "a": "Thuyền trưởng",
+    "b": "Tiếp viên hàng không",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-008",
+    "a": "Lính cứu hỏa",
+    "b": "Nhân viên cứu hộ",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-009",
+    "a": "Cảnh sát",
+    "b": "Bộ đội",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-010",
+    "a": "Luật sư",
+    "b": "Thẩm phán",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-011",
+    "a": "Kế toán",
+    "b": "Kiểm toán viên",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-012",
+    "a": "Giao dịch viên",
+    "b": "Chuyên viên tín dụng",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-013",
+    "a": "Nhân viên thu ngân",
+    "b": "Nhân viên bán hàng",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-014",
+    "a": "Nhân viên phục vụ",
+    "b": "Lễ tân",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-015",
+    "a": "Hướng dẫn viên du lịch",
+    "b": "Nhân viên điều hành tour",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-016",
+    "a": "Nông dân",
+    "b": "Người chăn nuôi",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-017",
+    "a": "Ngư dân",
+    "b": "Thợ lặn",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-018",
+    "a": "Thợ may",
+    "b": "Nhà thiết kế thời trang",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-019",
+    "a": "Thợ cắt tóc",
+    "b": "Chuyên viên trang điểm",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-020",
+    "a": "Kiến trúc sư",
+    "b": "Kỹ sư xây dựng",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-021",
+    "a": "Thợ xây",
+    "b": "Thợ sơn",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-022",
+    "a": "Lập trình viên",
+    "b": "Chuyên viên kiểm thử",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-023",
+    "a": "Nhà báo",
+    "b": "Biên tập viên",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-024",
+    "a": "Nhiếp ảnh gia",
+    "b": "Người quay phim",
+    "topic": "Nghề nghiệp",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-025",
+    "a": "Diễn viên",
+    "b": "Đạo diễn",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-026",
+    "a": "Ca sĩ",
+    "b": "Nhạc công",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-027",
+    "a": "Họa sĩ",
+    "b": "Nhà điêu khắc",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-028",
+    "a": "Nhà văn",
+    "b": "Dịch giả",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-029",
+    "a": "Thủ thư",
+    "b": "Nhân viên lưu trữ",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-030",
+    "a": "Người giao hàng",
+    "b": "Nhân viên bưu điện",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-031",
+    "a": "Bảo vệ",
+    "b": "Vệ sĩ",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-032",
+    "a": "Bác sĩ thú y",
+    "b": "Huấn luyện viên thú",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-033",
+    "a": "Nhà khí tượng",
+    "b": "Nhà địa chất",
+    "topic": "Nghề nghiệp",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-034",
+    "a": "Nhà khảo cổ",
+    "b": "Nhà cổ sinh vật học",
+    "topic": "Nghề nghiệp",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-035",
+    "a": "Chuyên gia dinh dưỡng",
+    "b": "Kỹ thuật viên xét nghiệm",
+    "topic": "Nghề nghiệp",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "jobs-036",
+    "a": "Chuyên viên vật lý trị liệu",
+    "b": "Chuyên viên hoạt động trị liệu",
+    "topic": "Nghề nghiệp",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

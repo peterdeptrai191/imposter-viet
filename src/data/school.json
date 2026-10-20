@@ -1,0 +1,362 @@
+[
+  {
+    "id": "school-001",
+    "a": "Bút chì",
+    "b": "Bút mực",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-002",
+    "a": "Bảng đen",
+    "b": "Bảng trắng",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-003",
+    "a": "Thước kẻ",
+    "b": "Com pa",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-004",
+    "a": "Tẩy bút chì",
+    "b": "Bút xóa",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-005",
+    "a": "Vở ô ly",
+    "b": "Giấy nháp",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-006",
+    "a": "Sách giáo khoa",
+    "b": "Sách tham khảo",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-007",
+    "a": "Ba lô",
+    "b": "Hộp bút",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-008",
+    "a": "Phấn viết bảng",
+    "b": "Bút dạ bảng",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-009",
+    "a": "Bàn học",
+    "b": "Ghế học sinh",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-010",
+    "a": "Cặp sách",
+    "b": "Túi đựng tài liệu",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-011",
+    "a": "Chuông vào lớp",
+    "b": "Trống trường",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-012",
+    "a": "Thư viện",
+    "b": "Phòng thí nghiệm",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-013",
+    "a": "Sân trường",
+    "b": "Hành lang lớp học",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-014",
+    "a": "Căn tin",
+    "b": "Phòng y tế",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-015",
+    "a": "Giáo viên",
+    "b": "Học sinh",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-016",
+    "a": "Lớp trưởng",
+    "b": "Bí thư lớp",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-017",
+    "a": "Hiệu trưởng",
+    "b": "Giám thị",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-018",
+    "a": "Bài tập về nhà",
+    "b": "Bài kiểm tra",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-019",
+    "a": "Kiểm tra miệng",
+    "b": "Kiểm tra viết",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-020",
+    "a": "Điểm danh",
+    "b": "Chấm bài",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-021",
+    "a": "Học kỳ",
+    "b": "Năm học",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-022",
+    "a": "Lễ khai giảng",
+    "b": "Lễ bế giảng",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-023",
+    "a": "Đồng phục",
+    "b": "Áo thể dục",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-024",
+    "a": "Giờ ra chơi",
+    "b": "Giờ chào cờ",
+    "topic": "Trường học",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-025",
+    "a": "Toán học",
+    "b": "Ngữ văn",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-026",
+    "a": "Lịch sử",
+    "b": "Địa lý",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-027",
+    "a": "Vật lý",
+    "b": "Hóa học",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-028",
+    "a": "Sinh học",
+    "b": "Tin học",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-029",
+    "a": "Ngoại ngữ",
+    "b": "Giáo dục công dân",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-030",
+    "a": "Học bạ",
+    "b": "Sổ liên lạc",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-031",
+    "a": "Bằng tốt nghiệp",
+    "b": "Giấy khen",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-032",
+    "a": "Thi học sinh giỏi",
+    "b": "Thi tuyển sinh",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-033",
+    "a": "Học bổng",
+    "b": "Học phí",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-034",
+    "a": "Luận văn",
+    "b": "Đồ án",
+    "topic": "Trường học",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-035",
+    "a": "Tín chỉ",
+    "b": "Học phần",
+    "topic": "Trường học",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "school-036",
+    "a": "Thực tập",
+    "b": "Kiến tập",
+    "topic": "Trường học",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

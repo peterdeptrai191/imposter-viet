@@ -1,0 +1,362 @@
+[
+  {
+    "id": "nature-001",
+    "a": "Mặt Trời",
+    "b": "Mặt Trăng",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-002",
+    "a": "Sao chổi",
+    "b": "Thiên thạch",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-003",
+    "a": "Hành tinh",
+    "b": "Ngôi sao",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-004",
+    "a": "Ngân hà",
+    "b": "Tinh vân",
+    "topic": "Thiên nhiên",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-005",
+    "a": "Nhật thực",
+    "b": "Nguyệt thực",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-006",
+    "a": "Bình minh",
+    "b": "Hoàng hôn",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-007",
+    "a": "Mưa",
+    "b": "Tuyết",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-008",
+    "a": "Mưa đá",
+    "b": "Sương giá",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-009",
+    "a": "Sương mù",
+    "b": "Mây",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-010",
+    "a": "Sấm",
+    "b": "Chớp",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-011",
+    "a": "Cầu vồng",
+    "b": "Cực quang",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-012",
+    "a": "Lốc xoáy",
+    "b": "Bão",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-013",
+    "a": "Gió mùa",
+    "b": "Gió biển",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-014",
+    "a": "Gió phơn",
+    "b": "Gió núi",
+    "topic": "Thiên nhiên",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-015",
+    "a": "Nắng nóng",
+    "b": "Rét đậm",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-016",
+    "a": "Hạn hán",
+    "b": "Lũ lụt",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-017",
+    "a": "Sóng thần",
+    "b": "Động đất",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-018",
+    "a": "Núi lửa",
+    "b": "Mạch nước phun",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-019",
+    "a": "Dung nham",
+    "b": "Tro núi lửa",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-020",
+    "a": "Núi",
+    "b": "Đồi",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-021",
+    "a": "Thung lũng",
+    "b": "Cao nguyên",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-022",
+    "a": "Hẻm núi",
+    "b": "Hang động",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-023",
+    "a": "Sông",
+    "b": "Suối",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-024",
+    "a": "Hồ",
+    "b": "Đầm",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-025",
+    "a": "Thác nước",
+    "b": "Ghềnh",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-026",
+    "a": "Biển",
+    "b": "Đại dương",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-027",
+    "a": "Đảo",
+    "b": "Bán đảo",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-028",
+    "a": "Vịnh",
+    "b": "Eo biển",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-029",
+    "a": "Bãi cát",
+    "b": "Bãi đá",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-030",
+    "a": "Rạn san hô",
+    "b": "Rừng ngập mặn",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-031",
+    "a": "Sa mạc",
+    "b": "Thảo nguyên",
+    "topic": "Thiên nhiên",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-032",
+    "a": "Rừng mưa",
+    "b": "Rừng lá kim",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-033",
+    "a": "Băng trôi",
+    "b": "Sông băng",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-034",
+    "a": "Thủy triều",
+    "b": "Dòng hải lưu",
+    "topic": "Thiên nhiên",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-035",
+    "a": "Kim cương",
+    "b": "Thạch anh",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "nature-036",
+    "a": "Rêu",
+    "b": "Dương xỉ",
+    "topic": "Thiên nhiên",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]

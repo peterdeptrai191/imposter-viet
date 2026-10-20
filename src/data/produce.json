@@ -1,0 +1,362 @@
+[
+  {
+    "id": "produce-001",
+    "a": "Táo",
+    "b": "Lê",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-002",
+    "a": "Cam",
+    "b": "Quýt",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-003",
+    "a": "Chanh",
+    "b": "Tắc",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-004",
+    "a": "Bưởi",
+    "b": "Chanh yên",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-005",
+    "a": "Dưa hấu",
+    "b": "Dưa lưới",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-006",
+    "a": "Dâu tây",
+    "b": "Phúc bồn tử",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-007",
+    "a": "Việt quất",
+    "b": "Nam việt quất",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "hard",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-008",
+    "a": "Vải",
+    "b": "Chôm chôm",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-009",
+    "a": "Măng cụt",
+    "b": "Vú sữa",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-010",
+    "a": "Ổi",
+    "b": "Lựu",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-011",
+    "a": "Mận",
+    "b": "Đào",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-012",
+    "a": "Mơ",
+    "b": "Anh đào",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-013",
+    "a": "Sầu riêng",
+    "b": "Mít",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-014",
+    "a": "Xoài",
+    "b": "Đu đủ",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-015",
+    "a": "Na",
+    "b": "Mãng cầu xiêm",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-016",
+    "a": "Me",
+    "b": "Sấu",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-017",
+    "a": "Cà chua",
+    "b": "Cà tím",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-018",
+    "a": "Bí đỏ",
+    "b": "Bí xanh",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-019",
+    "a": "Mướp",
+    "b": "Bầu",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-020",
+    "a": "Khổ qua",
+    "b": "Su su",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-021",
+    "a": "Cà rốt",
+    "b": "Củ cải trắng",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-022",
+    "a": "Củ dền",
+    "b": "Củ cải đỏ",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-023",
+    "a": "Khoai tây",
+    "b": "Khoai lang",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-024",
+    "a": "Khoai môn",
+    "b": "Khoai sọ",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-025",
+    "a": "Sắn",
+    "b": "Củ từ",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-026",
+    "a": "Bắp",
+    "b": "Đậu Hà Lan",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-027",
+    "a": "Đậu cô ve",
+    "b": "Đậu đũa",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-028",
+    "a": "Bắp cải",
+    "b": "Cải thảo",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-029",
+    "a": "Súp lơ xanh",
+    "b": "Súp lơ trắng",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-030",
+    "a": "Rau muống",
+    "b": "Rau lang",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-031",
+    "a": "Rau dền",
+    "b": "Mồng tơi",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-032",
+    "a": "Cải thìa",
+    "b": "Cải ngọt",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-033",
+    "a": "Hành lá",
+    "b": "Hẹ",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-034",
+    "a": "Tỏi",
+    "b": "Hành tím",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-035",
+    "a": "Gừng",
+    "b": "Nghệ",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "easy",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  },
+  {
+    "id": "produce-036",
+    "a": "Riềng",
+    "b": "Sả",
+    "topic": "Rau củ và trái cây",
+    "difficulty": "medium",
+    "source": "builtin",
+    "aliasesA": [],
+    "aliasesB": []
+  }
+]
