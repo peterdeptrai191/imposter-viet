@@ -27,7 +27,7 @@ Trình duyệt trong ứng dụng, bản production tại `http://127.0.0.1:4173
 
 ## Giới hạn cần ghi nhận
 
-- Chưa triển khai thật lên GitHub/Vercel vì chưa có kho từ xa hoặc phiên Vercel gắn dự án. Chưa xác minh URL production công khai hay rewrite trên hạ tầng Vercel thực tế.
+- Khi kiểm tra bản đầu, chưa có kho GitHub từ xa hoặc phiên Vercel gắn dự án. Sau đó người dùng đã cung cấp kho `peterdeptrai191/imposter-viet`; remote `origin` đã được cấu hình tới kho đó, nhánh `main`. Chưa triển khai Vercel; chưa xác minh URL production công khai hay rewrite trên hạ tầng Vercel thực tế.
 - Chưa thử trên phần cứng iPhone/Android thật, chưa thử cài biểu tượng ngoài màn hình chính trên hai hệ điều hành đó. Kiểm tra mobile ở đây là viewport trình duyệt.
 - Chưa mô phỏng mọi tổ hợp vòng đời hệ điều hành, trình duyệt, thiếu bộ nhớ hoặc xóa cache. Không bảo đảm mọi trình duyệt luôn giữ offline cache; trình duyệt có thể tự dọn bộ nhớ.
 - Có kiểm tra thông báo và áp dụng cập nhật giữa hai bản build cục bộ. Chưa kiểm tra hai deployment Vercel thực hoặc mọi tình huống mất mạng giữa lúc cập nhật.

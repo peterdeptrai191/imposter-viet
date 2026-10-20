@@ -69,9 +69,9 @@ Dữ liệu chỉ nằm trong trình duyệt hiện tại, không tự đồng b
 
 ## GitHub → Vercel
 
-Hiện **chưa có kho GitHub từ xa được kết nối và chưa triển khai Vercel**. Mã nguồn và cấu hình đã chuẩn bị; không cần gửi mật khẩu/token cho Codex.
+Kho GitHub đích: **[peterdeptrai191/imposter-viet](https://github.com/peterdeptrai191/imposter-viet)**, nhánh **main**. Mã nguồn đặt ngay ở gốc kho. **Chưa triển khai Vercel**; cấu hình đã chuẩn bị và không cần gửi mật khẩu/token cho Codex.
 
-1. Đăng nhập GitHub trên trình duyệt, chọn **New repository**, đặt tên `imposter-viet`, tạo kho trống. Gửi URL kho đó cho Codex để được đẩy mã bằng luồng đăng nhập công cụ. Hoặc dùng GitHub Desktop → Add local repository và Publish repository cho thư mục này. Đưa **nội dung thư mục imposter** vào gốc kho, không đưa `node_modules` hay `dist` lên GitHub.
+1. Mở kho GitHub trên, kiểm tra nhánh **main** có `package.json`, `package-lock.json`, `src/` và `vercel.json` ở gốc. Nếu đang chờ đăng nhập của Git Credential Manager, hoàn tất xác nhận trên trang GitHub chính thức để công cụ đẩy mã. Không cần tải `node_modules` hay `dist` lên GitHub.
 2. Đăng nhập Vercel bằng tài khoản của bạn. Chọn **Add New → Project**, kết nối GitHub, Import kho.
 3. Chọn chính xác:
 
