@@ -1,7 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
+import "@fontsource/baloo-2/800.css";
+import "@fontsource/be-vietnam-pro/400.css";
+import "@fontsource/be-vietnam-pro/500.css";
+import "@fontsource/be-vietnam-pro/700.css";
 import "./style.css";
+import "./bella.css";
 class Boundary extends React.Component<
   React.PropsWithChildren,
   { error: boolean }

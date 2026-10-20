@@ -58,53 +58,11 @@ type Page =
   | "settings"
   | "guide";
 const uid = () => crypto.randomUUID();
-function Ghost({ small = false }: { small?: boolean }) {
+function BellaLogo({ small = false }: { small?: boolean }) {
   return (
-    <svg
-      className={small ? "ghost small" : "ghost"}
-      viewBox="0 0 220 240"
-      fill="none"
-      aria-hidden="true"
-    >
-      <path
-        d="M48 185V93c0-46 29-72 66-72s66 28 66 72v111l-27-18-24 20-27-20-26 20-28-21Z"
-        fill="#cbef74"
-      />
-      <path
-        d="M48 185V93c0-46 29-72 66-72s66 28 66 72v111l-27-18-24 20-27-20-26 20-28-21Z"
-        stroke="#141610"
-        strokeWidth="5"
-      />
-      <rect
-        x="66"
-        y="71"
-        width="98"
-        height="62"
-        rx="30"
-        fill="#222827"
-        stroke="#141610"
-        strokeWidth="5"
-      />
-      <path
-        d="m88 89 16 12-16 12m52-24-16 12 16 12"
-        stroke="#cbef74"
-        strokeWidth="7"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      <path
-        d="m166 49 26-9m-22 29 30 6M40 109l-23 8m27 8-16 18"
-        stroke="#cbef74"
-        strokeWidth="4"
-        strokeLinecap="round"
-      />
-      <path
-        d="m78 155 10 4m51-4 10-4"
-        stroke="#141610"
-        strokeWidth="4"
-        strokeLinecap="round"
-      />
-    </svg>
+    <span className={small ? "bella-sticker small" : "bella-sticker"}>
+      <img src="/bella/logo.png" alt="BELLA TEAM" width="552" height="540" />
+    </span>
   );
 }
 function App() {
@@ -246,8 +204,8 @@ function App() {
     <>
       <header className="topbar">
         <button className="brand" onClick={() => nav("home")}>
-          imposter<span>✳</span>
-          <small>HỘI BẠN, HỘI NGHI NGỜ.</small>
+          BELLA <span>/</span> IMPOSTER
+          <small>CÙNG HỘI. CHÁY HẾT MÌNH!</small>
         </button>
         <nav>
           {navItems.map((n) => (
@@ -288,9 +246,7 @@ function App() {
       {page === "home" && (
         <main className="page home-page">
           <div className="hero-top">
-            <span className="eyebrow">
-              <span className="live-dot" /> PARTY GAME · CHƠI TRÊN MỘT MÁY
-            </span>
+            <span className="eyebrow">MỘT CHIẾC MÁY · CẢ HỘI CÙNG CHƠI</span>
             <button className="text-btn" onClick={() => nav("guide")}>
               Luật chơi <ArrowRight size={16} />
             </button>
@@ -298,16 +254,14 @@ function App() {
           <section className="hero">
             <div className="hero-copy">
               <h1>
-                Cùng một hội.
+                Cùng hội.
                 <br />
-                Khác một <em>từ.</em>
+                Cháy hết mình!
               </h1>
               <p>
-                Một người biết điều khác biệt.
+                Một từ khác biệt. Một hội bạn đáng ngờ.
                 <br />
-                Một câu nói có thể làm lộ tất cả.
-                <br />
-                <strong>Liệu bạn có tìm ra imposter?</strong>
+                Ai sẽ bị lộ trước?
               </p>
               <div className="hero-tags">
                 <span>
@@ -317,21 +271,18 @@ function App() {
                   <Smartphone size={15} /> 1 thiết bị
                 </span>
                 <span>
-                  <WifiOff size={15} /> Chơi ngoại tuyến
+                  <WifiOff size={15} /> Offline
                 </span>
               </div>
             </div>
             <div className="hero-art">
-              <span className="orbit orbit-one" />
-              <span className="orbit orbit-two" />
-              <span className="art-tag tag-a">“Tôi thấy hơi đáng ngờ…”</span>
-              <Ghost />
-              <span className="art-tag tag-b">
-                <span /> Ai là imposter?
+              <span className="collage-card collage-pink" aria-hidden="true">
+                SHHH…
               </span>
-              <span className="spark spark-a">✳</span>
-              <span className="spark spark-b">+</span>
-              <span className="art-index">SHHH… ĐỪNG NÓI RA TỪ CỦA BẠN.</span>
+              <span className="collage-card collage-blue" aria-hidden="true">
+                AI ĐÓ?
+              </span>
+              <BellaLogo />
             </div>
           </section>
           <section className="launch-grid">
@@ -340,7 +291,7 @@ function App() {
                 <Play fill="currentColor" size={28} />
               </span>
               <span>
-                <strong>Lên ván thôi!</strong>
+                <strong>CHƠI NGAY</strong>
                 <small>Tập hợp hội bạn. Bắt đầu nghi ngờ.</small>
               </span>
               <ArrowRight size={30} />
@@ -533,7 +484,7 @@ function App() {
           <Back onClick={() => nav("players")} />
           <Heading
             tag="02 / THIẾT LẬP"
-            title="Thêm chút bí ẩn."
+            title="Ván này chơi sao?"
             desc="Chọn cách chơi hợp với hội của bạn."
           />
           <Setup
@@ -779,9 +730,7 @@ function App() {
           <button className="btn secondary full" onClick={() => nav("guide")}>
             <BookOpen size={19} /> Xem hướng dẫn chơi
           </button>
-          <p className="tiny center">
-            IMPOSTER · PHIÊN BẢN 1.0 · MADE FOR YOUR PEOPLE
-          </p>
+          <p className="tiny center">BELLA / IMPOSTER · PHIÊN BẢN 1.1</p>
         </main>
       )}
       <nav className="bottom-nav">
@@ -867,7 +816,7 @@ function Empty({
 }) {
   return (
     <div className="empty">
-      <Ghost small />
+      <BellaLogo small />
       <h2>{title}</h2>
       {desc && <p>{desc}</p>}
       <button className="btn primary" onClick={onClick}>
@@ -1529,11 +1478,14 @@ function VoteCounts({
 function Results({ g }: { g: Game }) {
   return (
     <>
-      <Heading
-        tag="HẠ MÀN · LÒNG TIN ĐÃ ĐƯỢC THỬ"
-        title={`${g.winner === "civilian" ? "Dân thường" : "Imposter"} chiến thắng!`}
-        desc={g.reason}
-      />
+      <div className="winner-card">
+        <Heading
+          tag="HẠ MÀN · LÒNG TIN ĐÃ ĐƯỢC THỬ"
+          title={`${g.winner === "civilian" ? "Dân thường" : "Imposter"} chiến thắng!`}
+          desc={g.reason}
+        />
+        <BellaLogo small />
+      </div>
       <div className="result-words">
         <div>
           <small>TỪ CỦA DÂN THƯỜNG</small>
@@ -1627,7 +1579,7 @@ function WordLibrary({
     <main className="page">
       <Heading
         tag="KHOẢNG CÁCH GIỮA HAI TỪ"
-        title="Kho từ, nhiều bất ngờ."
+        title="Quen mà khó đoán."
         desc={`${new Set(all.flatMap((p) => [norm(p.a), norm(p.b)])).size.toLocaleString("vi-VN")} từ riêng biệt · ${all.length} cặp · ${new Set(all.map((p) => p.topic)).size} chủ đề`}
       />
       <div className="library-toolbar">

@@ -1,6 +1,12 @@
-# Imposter — Cùng một hội. Khác một từ.
+# BELLA / IMPOSTER — Cùng hội. Cháy hết mình!
 
 Web app tiếng Việt để 3–20 người chơi trên một điện thoại. React + TypeScript + Vite, không backend, không tài khoản, không biến môi trường.
+
+## Giao diện BELLA 1.1
+
+Bản UI dựa trên [thiết kế BELLA đã duyệt](https://www.figma.com/design/jeZus11kj79MjZ2dOwdjfQ?node-id=2-47): nền cam đỏ ô lưới, thẻ navy, nút vàng, logo BELLA gốc, phông Baloo 2 và Be Vietnam Pro. Phông chữ và tài nguyên thương hiệu được đóng gói tại máy để dùng ngoại tuyến. Màu và lớp trình bày nằm trong `src/style.css` và `src/bella.css`.
+
+Luật, kho từ, phân vai, tiến trình, thao tác vuốt giữ, đồng hồ, bỏ phiếu, nhập/xuất và định dạng bản lưu giữ nguyên. Bản lưu vẫn dùng khóa `imposter-viet-v1`. Link công khai: **[imposter-viet.vercel.app](https://imposter-viet.vercel.app)**. Với bản đã cài ngoại tuyến, chọn cập nhật khi kết thúc ván để nhận giao diện mới.
 
 ## Mở ngay trên máy hiện tại
 
@@ -69,7 +75,7 @@ Dữ liệu chỉ nằm trong trình duyệt hiện tại, không tự đồng b
 
 ## GitHub → Vercel
 
-Kho GitHub đích: **[peterdeptrai191/imposter-viet](https://github.com/peterdeptrai191/imposter-viet)**, nhánh **main**. Mã nguồn đặt ngay ở gốc kho. **Chưa triển khai Vercel**; cấu hình đã chuẩn bị và không cần gửi mật khẩu/token cho Codex.
+Kho GitHub đích: **[peterdeptrai191/imposter-viet](https://github.com/peterdeptrai191/imposter-viet)**, nhánh **main**. Mã nguồn đặt ngay ở gốc kho. Dự án đã kết nối Vercel; đẩy commit lên `main` sẽ kích hoạt triển khai. Hướng dẫn bên dưới dùng khi cần nhập lại dự án. Không cần gửi mật khẩu/token cho Codex.
 
 1. Mở kho GitHub trên, kiểm tra nhánh **main** có `package.json`, `package-lock.json`, `src/` và `vercel.json` ở gốc. Nếu đang chờ đăng nhập của Git Credential Manager, hoàn tất xác nhận trên trang GitHub chính thức để công cụ đẩy mã. Không cần tải `node_modules` hay `dist` lên GitHub.
 2. Đăng nhập Vercel bằng tài khoản của bạn. Chọn **Add New → Project**, kết nối GitHub, Import kho.

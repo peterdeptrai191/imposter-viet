@@ -6,14 +6,19 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "prompt",
-      includeAssets: ["icon.svg", "icon-192.png", "icon-512.png"],
+      includeAssets: [
+        "icon-192.png",
+        "icon-512.png",
+        "bella/logo.png",
+        "bella/grid.svg",
+      ],
       manifest: {
-        name: "Imposter — Ai là người khác biệt?",
-        short_name: "Imposter",
+        name: "BELLA / IMPOSTER",
+        short_name: "BELLA",
         description: "Game suy luận tiếng Việt cho cả hội",
         lang: "vi",
-        theme_color: "#101114",
-        background_color: "#101114",
+        theme_color: "#ff642a",
+        background_color: "#ff642a",
         display: "standalone",
         start_url: "/",
         icons: [
@@ -38,7 +43,7 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ["**/*.{js,css,html,json,png,svg,webmanifest}"],
+        globPatterns: ["**/*.{js,css,html,json,png,svg,webmanifest,woff2}"],
         navigateFallback: "index.html",
         cleanupOutdatedCaches: true,
       },

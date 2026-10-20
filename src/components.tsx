@@ -117,9 +117,7 @@ export function RevealCard({
           className={`secret-cover ${closing ? "closing" : ""}`}
           style={{ transform: `translateY(-${lift}px)` }}
         >
-          <div className="mini-brand">
-            imposter<span>✳</span>
-          </div>
+          <div className="mini-brand">BELLA / IMPOSTER</div>
           <div className="fingerprint">
             <ArrowUp size={38} />
           </div>
@@ -207,6 +205,7 @@ export function Countdown({
   const sec = Math.ceil(left / 1000);
   return (
     <div className={`countdown ${!left ? "expired" : ""}`}>
+      <span className="timer-label">THỜI GIAN CÒN LẠI</span>
       <TimerIcon size={20} />
       <strong>
         {Math.floor(sec / 60)
@@ -220,6 +219,7 @@ export function Countdown({
         onClick={onPause}
       >
         {value.paused ? <Play size={20} /> : <Pause size={20} />}
+        <span>{value.paused ? "Tiếp tục" : "Tạm dừng"}</span>
       </button>
       {!left && (
         <small role="status">Hết giờ · Nhóm chủ động chuyển bước</small>
